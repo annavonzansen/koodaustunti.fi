@@ -1,3 +1,4 @@
+<!--
 ---
 layout: kaksi-palstaa
 title: Ilmoittaudu mukaan!
@@ -29,4 +30,4 @@ Ryhdy koodauskummiksi!  Kerro tästä sivustosta lähikoulusi rehtorille tai tut
 
 ### Muille
 
-Voitko innostaa lapsesi tutustumaan ohjelmoinnin perusteisiin tai haluatko ehkä kokeilla itse? Tsekkaa [Miten aloitan?](/miten-aloitan-koodaamaan/) -sivu.
+Voitko innostaa lapsesi tutustumaan ohjelmoinnin perusteisiin tai haluatko ehkä kokeilla itse? Tsekkaa [Miten aloitan?](/miten-aloitan-koodaamaan/) -sivu.-->
